@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #3d5a80 !important;
+			color: #4acaa8 !important;
 		}
 
 	strong, b {
@@ -1785,7 +1785,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #3d5a80;
+		color: #4acaa8;
 		font-size: 3.5em;
 	}
 
@@ -1796,7 +1796,7 @@ input, select, textarea {
 			margin-top: -0.75em;
 		}
 		header.major test {
-			color: #3d5a80;
+			color: #4acaa8;
 			font-size: 2.5em;
 			line-height: 1.75em;
 			font-weight: 700;
@@ -1854,7 +1854,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #3d5a80;
+			border-color: #4acaa8;
 		}
 
 	select {
@@ -1959,7 +1959,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #3d5a80;
+			border-color: #4acaa8;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2408,7 +2408,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #3d5a80;
+				background: #4acaa8;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2624,7 +2624,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #3d5a80;
+			background-color: #4acaa8;
 			color: #ffffff !important;
 		}
 
@@ -2706,7 +2706,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #3d5a80;
+		background: #4acaa8;
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2726,7 +2726,7 @@ input, select, textarea {
 			}
 
 		#header header p {
-			color: #ffffff;
+			color: #b7eadc;
 		}
 
 		#header a {
@@ -2757,7 +2757,7 @@ input, select, textarea {
 			}
 
 			#header > header p {
-				color: #ffffff;
+				color: #d2f2e9;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2778,7 +2778,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #ffffff;
+					color: #b7eadc;
 				}
 
 		#header > nav {
@@ -2795,7 +2795,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #3d5a80;
+					border-top: solid 2px #5ccfb1;
 					display: block;
 					padding: 0;
 				}
@@ -2814,7 +2814,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #3d5a80 !important;
+							color: #4acaa8 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -3082,7 +3082,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #3d5a80;
+						background: #4acaa8;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
