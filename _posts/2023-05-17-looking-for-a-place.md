@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Looking for accommodation
-date: 2023-05-17
+date: 2099-05-17
 tags: Zurich moving
 categories: random
 ---
