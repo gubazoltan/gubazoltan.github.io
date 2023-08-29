@@ -10,11 +10,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Budapest, Hungary</p>
+    <p>Zurich, Switzerland</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a physics MSc student of <a href="http://eik.bme.hu/~palyi/" target="_blank">András Pályi</a> at the <a href="https://dtp.physics.bme.hu/?language=en" target="_blank">Department of Theoretical Physics</a> at  <a href="https://www.bme.hu/?language=en" target="_blank">Budapest University of Technology and Economics</a>. I am interested in Topological Phases of Matter, Singularity theory, Quantum Computing, and Open Quantum Systems. Currently, my research focuses on the investigation of Topological Semimetals with tools offered by Singularity Theory. 
+<font size="+1">I am PhD student of
+<a href="https://www.tomasbzdusek.com/" target="_blank">Tomáš Bzdušek</a> at <a href="https://www.uzh.ch/cmsssl/en.html" target="_blank">University of Zurich</a> in Switzerland. 
+I obtained my undergraduate degrees at <a href="https://www.bme.hu/?language=en" target="_blank">Budapest University of Technology and Economics</a> under the supervision of <a href="http://eik.bme.hu/~palyi/" target="_blank">András Pályi</a>.
+I am interested in topological phases of matter, singularity theory, quantum computing, and open quantum systems.</font>

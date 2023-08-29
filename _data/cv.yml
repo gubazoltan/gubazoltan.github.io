@@ -11,17 +11,20 @@
 - title: Education
   type: time_table
   contents:
+    - title : PhD in Condensed Matter Theory
+      institution: "University of Zurich, Switzerland"
+      year : "2023 - present" 
       
     - title : MSc in Physics
-      institution: Budapest University of Technology and Economics
-      year : "2021 -" 
-      description: "expected year of graduation: 2023"
-    - title : Bsc in Physics
-      institution: Budapest University of Technology and Economics
+      institution: "Budapest University of Technology and Economics, Hungary"
+      year : "2021 - 2023" 
+      description: "grade : excellent with highest honours"
+    - title : BSc in Physics
+      institution: "Budapest University of Technology and Economics, Hungary"
       year : "2018 - 2021"
       description: "grade : excellent with highest honours"
 
-- title: Extracurricular Experience
+- title: Activities
   type: time_table
   contents:
     - title : <a href="https://qhungary.hu/">QBronze 2023 workshop</a>, Budapest
