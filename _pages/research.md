@@ -31,7 +31,7 @@ Conferences & Schools
         <em>Saas-Fee, Switzerland</em>
     </li>
     <li>
-        <strong>2025</strong> &mdash; <span style="color:#007acc;">International School of Physics “Enrico Fermi”: Topology and Materials</span><br>
+        <strong>2024</strong> &mdash; <span style="color:#007acc;">International School of Physics “Enrico Fermi”: Topology and Materials</span><br>
         <em>Varenna, Italy</em>
     </li>
     <li>
