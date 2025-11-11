@@ -24,6 +24,7 @@ Outside of research, I enjoy hiking in the Swiss Alps, discovering new sports, a
 
 I have served as a teaching assistant for the following courses during my doctoral studies:
 
+- **Autumn 2025** – Linear Algebra 1 for Physics Students
 - **Spring 2025** – Analysis 2 for Physics Students
 - **Autumn 2024** – Topology and Geometry in Condensed Matter
-- **Spring 2025** – Analysis 2 for Physics Students
+- **Spring 2024** – Analysis 2 for Physics Students

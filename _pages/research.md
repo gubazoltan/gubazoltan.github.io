@@ -19,6 +19,10 @@ Conferences & Schools
 
 <ul style="list-style-type:none; padding-left:0; margin:0;">
     <li>
+        <strong>2025</strong> &mdash; <span style="color:#007acc;">Trends in the Theory of Quantum Materials</span><br>
+        <em>Saitama, Japan</em>
+    </li>
+    <li>
         <strong>2025</strong> &mdash; <span style="color:#007acc;">Topological and Correlated Matter Gordon Research Conference</span><br>
         <em>Castelldefels, Spain</em>
     </li>
