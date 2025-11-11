@@ -10,7 +10,7 @@ redirect_from:
 
 # Grüezi!
 
-I am a PhD student of [Tomáš Bzdušek](https://www.tomasbzdusek.com/) at [Universität Zürich](https://www.uzh.ch/cmsssl/en.html) in Switzerland. I obtained my undergraduate degrees at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en) under the supervision of [András Pályi](http://eik.bme.hu/~palyi/). My research interests focus on the intersection of geometry, topology, and physics, particularly in the context of novel topological phases of matter and their emergent properties. 
+I am a PhD student in the group of [Tomáš Bzdušek](https://www.tomasbzdusek.com/) at [Universität Zürich](https://www.uzh.ch/cmsssl/en.html) in Switzerland. I obtained my undergraduate degrees at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en) under the supervision of [András Pályi](http://eik.bme.hu/~palyi/). My research interests focus on the intersection of geometry, topology, and physics, particularly in the context of novel topological phases of matter and their emergent properties. 
   
 Outside of research, I enjoy hiking in the Swiss Alps, discovering new sports, and reading. Above all, I am especially passionate about bouldering, which I pursue enthusiastically in my free time.
 
